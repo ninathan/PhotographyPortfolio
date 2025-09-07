@@ -3,7 +3,7 @@ import Navbar from "@/src/components/Navbar"
 import Footer from "@/src/components/Footer"
 
 export const metadata = {
-  title: "Nathan's Photography Portfolio",
+  title: "Nathan 's Photography Portfolio",
   description: "Showcasing my work with style.",
 }
 
