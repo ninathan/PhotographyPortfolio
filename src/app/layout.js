@@ -4,7 +4,7 @@ import Footer from "@/src/components/Footer"
 
 export const metadata = {
   title: "Nathan 's Photography Portfolio",
-  description: "Showcasing my work with style.",
+  description: "Showcasing photography and short-form video with style.",
 }
 
 export default function RootLayout({ children }) {
